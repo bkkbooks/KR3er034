@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3er034/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 斑論萃英
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er034.xml
+hash: sha256:027188849123862708be0cd72bb55923d85c78be2fce001727d5563e93e17f26

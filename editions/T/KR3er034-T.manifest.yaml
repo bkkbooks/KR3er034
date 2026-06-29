@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3er034/T/v1
+canonical_location: https://kanripo.org/bkk/KR3er034/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 斑論萃英
+  identifiers:
+    krp: KR3er034
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er034.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3er034_001-T.yaml, hash: 'sha256:027188849123862708be0cd72bb55923d85c78be2fce001727d5563e93e17f26'}
+table_of_contents: []
+hash: sha256:c4b354a73f846ef01be2d86eaff47fa5c3d2e05a02cb1885da18de5605a3909c
