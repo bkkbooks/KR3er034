@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er034/v1
 canonical_location: https://kanripo.org/bkk/KR3er034/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 斑論萃英
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3er034_001.yaml
     hash: sha256:027188849123862708be0cd72bb55923d85c78be2fce001727d5563e93e17f26
 table_of_contents: []
-hash: sha256:fd14b7ba1e1a2de986767ed5088c511768f212e94dd9409b17d3517d6cc4a814
+hash: sha256:35bc02642ca031720b021e41a91eea51e48dd151c294ed64d7e16bcba839b420
